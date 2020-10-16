@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Stringpratice",
+            "request": "launch",
+            "mainClass": "Stringpratice",
+            "projectName": "JAVA_practice_3eff2ca8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HomeWork2",
+            "request": "launch",
+            "mainClass": "HomeWork2",
+            "projectName": "JAVA_practice_3eff2ca8"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - homework5",
             "request": "launch",
             "mainClass": "homework5",
